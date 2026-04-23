@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"Green Day - Fancy Sauce","length_in_seconds":241.8606,"sound_event":{"sound_id":"fancysauce"}}
+{
+  "comparator_output": 0,
+  "description": "Green Day - Fancy Sauce",
+  "length_in_seconds": 241.8606,
+  "sound_event": { "sound_id": "fancysauce" }
+}

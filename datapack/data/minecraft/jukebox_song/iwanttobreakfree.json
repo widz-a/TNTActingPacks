@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"Queen - I Want To Break Free","length_in_seconds":258.0133,"sound_event":{"sound_id":"iwanttobreakfree"}}
+{
+  "comparator_output": 0,
+  "description": "Queen - I Want To Break Free",
+  "length_in_seconds": 258.0133,
+  "sound_event": { "sound_id": "iwanttobreakfree" }
+}

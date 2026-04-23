@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"Derivakat - In My Head","length_in_seconds":157.7143,"sound_event":{"sound_id":"inmyhead"}}
+{
+  "comparator_output": 0,
+  "description": "Derivakat - In My Head",
+  "length_in_seconds": 157.7143,
+  "sound_event": { "sound_id": "inmyhead" }
+}

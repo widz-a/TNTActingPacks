@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"The Beatles - Don't Let Me Down","length_in_seconds":215.7333,"sound_event":{"sound_id":"dontletmedown"}}
+{
+  "comparator_output": 0,
+  "description": "The Beatles - Don't Let Me Down",
+  "length_in_seconds": 215.7333,
+  "sound_event": { "sound_id": "dontletmedown" }
+}

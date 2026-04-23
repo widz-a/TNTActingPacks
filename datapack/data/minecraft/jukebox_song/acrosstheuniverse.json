@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"The Beatles - Across The Universe","length_in_seconds":228.1333,"sound_event":{"sound_id":"acrosstheuniverse"}}
+{
+  "comparator_output": 0,
+  "description": "The Beatles - Across The Universe",
+  "length_in_seconds": 228.1333,
+  "sound_event": { "sound_id": "acrosstheuniverse" }
+}

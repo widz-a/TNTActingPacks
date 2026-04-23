@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"Mike Geno - Casanova","length_in_seconds":170.3967,"sound_event":{"sound_id":"casanova"}}
+{
+  "comparator_output": 0,
+  "description": "Mike Geno - Casanova",
+  "length_in_seconds": 170.3967,
+  "sound_event": { "sound_id": "casanova" }
+}

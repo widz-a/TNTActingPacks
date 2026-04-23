@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"Linkin Park - Lost","length_in_seconds":199.3423,"sound_event":{"sound_id":"lost"}}
+{
+  "comparator_output": 0,
+  "description": "Linkin Park - Lost",
+  "length_in_seconds": 199.3423,
+  "sound_event": { "sound_id": "lost" }
+}

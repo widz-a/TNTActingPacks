@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"Darude - Sandstorm","length_in_seconds":226.5333,"sound_event":{"sound_id":"sandstorm"}}
+{
+  "comparator_output": 0,
+  "description": "Darude - Sandstorm",
+  "length_in_seconds": 226.5333,
+  "sound_event": { "sound_id": "sandstorm" }
+}

@@ -1,62 +1,498 @@
-{"acrosstheuniverse":{"sounds":[{"name":"acrosstheuniverse","stream":true}]},
-"alwayslookonthebrightsideoflife":{"sounds":[{"name":"alwayslookonthebrightsideoflife","stream":true}]},
-"askyfullofstars":{"sounds":[{"name":"askyfullofstars","stream":true}]},
-"aviva":{"sounds":[{"name":"aviva","stream":true}]},
-"bad":{"sounds":[{"name":"bad","stream":true}]},
-"bangbang":{"sounds":[{"name":"bangbang","stream":true}]},
-"bestthingeverreprise":{"sounds":[{"name":"bestthingeverreprise","stream":true}]},
-"bestthingeverstageversion":{"sounds":[{"name":"bestthingeverstageversion","stream":true}]},
-"brazilwaxparty":{"sounds":[{"name":"brazilwaxparty","stream":true}]},
-"bumblefuck":{"sounds":[{"name":"bumblefuck","stream":true}]},
-"casanova":{"sounds":[{"name":"casanova","stream":true}]},
-"circuscircumstances":{"sounds":[{"name":"circuscircumstances","stream":true}]},
-"dontletmedown":{"sounds":[{"name":"dontletmedown","stream":true}]},
-"everybodysgotsomethingtohideexceptmeandmymonkey":{"sounds":[{"name":"everybodysgotsomethingtohideexceptmeandmymonkey","stream":true}]},
-"expurgation":{"sounds":[{"name":"expurgation","stream":true}]},
-"fallendown":{"sounds":[{"name":"fallendown","stream":true}]},
-"fallendownreprise":{"sounds":[{"name":"fallendownreprise","stream":true}]},
-"fallendownslowed":{"sounds":[{"name":"fallendownslowed","stream":true}]},
-"fallenkingdom":{"sounds":[{"name":"fallenkingdom","stream":true}]},
-"fancysauce":{"sounds":[{"name":"fancysauce","stream":true}]},
-"fireborn":{"sounds":[{"name":"fireborn","stream":true}]},
-"friday":{"sounds":[{"name":"friday","stream":true}]},
-"genocide":{"sounds":[{"name":"genocide","stream":true}]},
-"getback":{"sounds":[{"name":"getback","stream":true}]},
-"goodbyetoaworld":{"sounds":[{"name":"goodbyetoaworld","stream":true}]},
-"goodenough":{"sounds":[{"name":"goodenough","stream":true}]},
-"goretrancexserbianfuckboyedition":{"sounds":[{"name":"goretrancexserbianfuckboyedition","stream":true}]},
-"gravityhurts":{"sounds":[{"name":"gravityhurts","stream":true}]},
-"honeycomb":{"sounds":[{"name":"honeycomb","stream":true}]},
-"inmyhead":{"sounds":[{"name":"inmyhead","stream":true}]},
-"iwanttobreakfree":{"sounds":[{"name":"iwanttobreakfree","stream":true}]},
-"knightmare":{"sounds":[{"name":"knightmare","stream":true}]},
-"letsgomakeamemory":{"sounds":[{"name":"letsgomakeamemory","stream":true}]},
-"lgorbifold":{"sounds":[{"name":"lgorbifold","stream":true}]},
-"lost":{"sounds":[{"name":"lost","stream":true}]},
-"materialgirl":{"sounds":[{"name":"materialgirl","stream":true}]},
-"minecraftcavesounds":{"sounds":[{"name":"minecraftcavesounds","stream":true}]},
-"musictodelight":{"sounds":[{"name":"musictodelight","stream":true}]},
-"nerves":{"sounds":[{"name":"nerves","stream":true}]},
-"overhead":{"sounds":[{"name":"overhead","stream":true}]},
-"panama":{"sounds":[{"name":"panama","stream":true}]},
-"paradise":{"sounds":[{"name":"paradise","stream":true}]},
-"peanutbutterjellytime":{"sounds":[{"name":"peanutbutterjellytime","stream":true}]},
-"piranasummerremix":{"sounds":[{"name":"piranasummerremix","stream":true}]},
-"placeinthisworld":{"sounds":[{"name":"placeinthisworld","stream":true}]},
-"ratism":{"sounds":[{"name":"ratism","stream":true}]},
-"ridingthestorm":{"sounds":[{"name":"ridingthestorm","stream":true}]},
-"runthroughwalls":{"sounds":[{"name":"runthroughwalls","stream":true}]},
-"sandstorm":{"sounds":[{"name":"sandstorm","stream":true}]},
-"south":{"sounds":[{"name":"south","stream":true}]},
-"streetfighterdubstepremix":{"sounds":[{"name":"streetfighterdubstepremix","stream":true}]},
-"takemeaway":{"sounds":[{"name":"takemeaway","stream":true}]},
-"takemehomecountryroads":{"sounds":[{"name":"takemehomecountryroads","stream":true}]},
-"theirdragonssoaredtheskies":{"sounds":[{"name":"theirdragonssoaredtheskies","stream":true}]},
-"tienbuocduoiquanky":{"sounds":[{"name":"tienbuocduoiquanky","stream":true}]},
-"togetherwestand":{"sounds":[{"name":"togetherwestand","stream":true}]},
-"trancemusicforracinggame":{"sounds":[{"name":"trancemusicforracinggame","stream":true}]},
-"tropicalstormcosperemix":{"sounds":[{"name":"tropicalstormcosperemix","stream":true}]},
-"whatanawesomegod":{"sounds":[{"name":"whatanawesomegod","stream":true}]},
-"whereibelong":{"sounds":[{"name":"whereibelong","stream":true}]},
-"winterhorrorland":{"sounds":[{"name":"winterhorrorland","stream":true}]},
-"zavodila":{"sounds":[{"name":"zavodila","stream":true}]}}
+{
+    "acrosstheuniverse": {
+        "sounds": [
+            {
+                "name": "acrosstheuniverse",
+                "stream": true
+            }
+        ]
+    },
+    "alwayslookonthebrightsideoflife": {
+        "sounds": [
+            {
+                "name": "alwayslookonthebrightsideoflife",
+                "stream": true
+            }
+        ]
+    },
+    "askyfullofstars": {
+        "sounds": [
+            {
+                "name": "askyfullofstars",
+                "stream": true
+            }
+        ]
+    },
+    "aviva": {
+        "sounds": [
+            {
+                "name": "aviva",
+                "stream": true
+            }
+        ]
+    },
+    "bad": {
+        "sounds": [
+            {
+                "name": "bad",
+                "stream": true
+            }
+        ]
+    },
+    "bangbang": {
+        "sounds": [
+            {
+                "name": "bangbang",
+                "stream": true
+            }
+        ]
+    },
+    "bestthingeverreprise": {
+        "sounds": [
+            {
+                "name": "bestthingeverreprise",
+                "stream": true
+            }
+        ]
+    },
+    "bestthingeverstageversion": {
+        "sounds": [
+            {
+                "name": "bestthingeverstageversion",
+                "stream": true
+            }
+        ]
+    },
+    "brazilwaxparty": {
+        "sounds": [
+            {
+                "name": "brazilwaxparty",
+                "stream": true
+            }
+        ]
+    },
+    "bumblefuck": {
+        "sounds": [
+            {
+                "name": "bumblefuck",
+                "stream": true
+            }
+        ]
+    },
+    "casanova": {
+        "sounds": [
+            {
+                "name": "casanova",
+                "stream": true
+            }
+        ]
+    },
+    "circuscircumstances": {
+        "sounds": [
+            {
+                "name": "circuscircumstances",
+                "stream": true
+            }
+        ]
+    },
+    "dontletmedown": {
+        "sounds": [
+            {
+                "name": "dontletmedown",
+                "stream": true
+            }
+        ]
+    },
+    "everybodysgotsomethingtohideexceptmeandmymonkey": {
+        "sounds": [
+            {
+                "name": "everybodysgotsomethingtohideexceptmeandmymonkey",
+                "stream": true
+            }
+        ]
+    },
+    "expurgation": {
+        "sounds": [
+            {
+                "name": "expurgation",
+                "stream": true
+            }
+        ]
+    },
+    "fallendown": {
+        "sounds": [
+            {
+                "name": "fallendown",
+                "stream": true
+            }
+        ]
+    },
+    "fallendownreprise": {
+        "sounds": [
+            {
+                "name": "fallendownreprise",
+                "stream": true
+            }
+        ]
+    },
+    "fallendownslowed": {
+        "sounds": [
+            {
+                "name": "fallendownslowed",
+                "stream": true
+            }
+        ]
+    },
+    "fallenkingdom": {
+        "sounds": [
+            {
+                "name": "fallenkingdom",
+                "stream": true
+            }
+        ]
+    },
+    "fancysauce": {
+        "sounds": [
+            {
+                "name": "fancysauce",
+                "stream": true
+            }
+        ]
+    },
+    "fireborn": {
+        "sounds": [
+            {
+                "name": "fireborn",
+                "stream": true
+            }
+        ]
+    },
+    "friday": {
+        "sounds": [
+            {
+                "name": "friday",
+                "stream": true
+            }
+        ]
+    },
+    "genocide": {
+        "sounds": [
+            {
+                "name": "genocide",
+                "stream": true
+            }
+        ]
+    },
+    "getback": {
+        "sounds": [
+            {
+                "name": "getback",
+                "stream": true
+            }
+        ]
+    },
+    "goodbyetoaworld": {
+        "sounds": [
+            {
+                "name": "goodbyetoaworld",
+                "stream": true
+            }
+        ]
+    },
+    "goodenough": {
+        "sounds": [
+            {
+                "name": "goodenough",
+                "stream": true
+            }
+        ]
+    },
+    "goretrancexserbianfuckboyedition": {
+        "sounds": [
+            {
+                "name": "goretrancexserbianfuckboyedition",
+                "stream": true
+            }
+        ]
+    },
+    "gravityhurts": {
+        "sounds": [
+            {
+                "name": "gravityhurts",
+                "stream": true
+            }
+        ]
+    },
+    "honeycomb": {
+        "sounds": [
+            {
+                "name": "honeycomb",
+                "stream": true
+            }
+        ]
+    },
+    "inmyhead": {
+        "sounds": [
+            {
+                "name": "inmyhead",
+                "stream": true
+            }
+        ]
+    },
+    "iwanttobreakfree": {
+        "sounds": [
+            {
+                "name": "iwanttobreakfree",
+                "stream": true
+            }
+        ]
+    },
+    "knightmare": {
+        "sounds": [
+            {
+                "name": "knightmare",
+                "stream": true
+            }
+        ]
+    },
+    "letsgomakeamemory": {
+        "sounds": [
+            {
+                "name": "letsgomakeamemory",
+                "stream": true
+            }
+        ]
+    },
+    "lgorbifold": {
+        "sounds": [
+            {
+                "name": "lgorbifold",
+                "stream": true
+            }
+        ]
+    },
+    "lost": {
+        "sounds": [
+            {
+                "name": "lost",
+                "stream": true
+            }
+        ]
+    },
+    "materialgirl": {
+        "sounds": [
+            {
+                "name": "materialgirl",
+                "stream": true
+            }
+        ]
+    },
+    "minecraftcavesounds": {
+        "sounds": [
+            {
+                "name": "minecraftcavesounds",
+                "stream": true
+            }
+        ]
+    },
+    "musictodelight": {
+        "sounds": [
+            {
+                "name": "musictodelight",
+                "stream": true
+            }
+        ]
+    },
+    "nerves": {
+        "sounds": [
+            {
+                "name": "nerves",
+                "stream": true
+            }
+        ]
+    },
+    "overhead": {
+        "sounds": [
+            {
+                "name": "overhead",
+                "stream": true
+            }
+        ]
+    },
+    "panama": {
+        "sounds": [
+            {
+                "name": "panama",
+                "stream": true
+            }
+        ]
+    },
+    "paradise": {
+        "sounds": [
+            {
+                "name": "paradise",
+                "stream": true
+            }
+        ]
+    },
+    "peanutbutterjellytime": {
+        "sounds": [
+            {
+                "name": "peanutbutterjellytime",
+                "stream": true
+            }
+        ]
+    },
+    "piranasummerremix": {
+        "sounds": [
+            {
+                "name": "piranasummerremix",
+                "stream": true
+            }
+        ]
+    },
+    "placeinthisworld": {
+        "sounds": [
+            {
+                "name": "placeinthisworld",
+                "stream": true
+            }
+        ]
+    },
+    "ratism": {
+        "sounds": [
+            {
+                "name": "ratism",
+                "stream": true
+            }
+        ]
+    },
+    "ridingthestorm": {
+        "sounds": [
+            {
+                "name": "ridingthestorm",
+                "stream": true
+            }
+        ]
+    },
+    "runthroughwalls": {
+        "sounds": [
+            {
+                "name": "runthroughwalls",
+                "stream": true
+            }
+        ]
+    },
+    "sandstorm": {
+        "sounds": [
+            {
+                "name": "sandstorm",
+                "stream": true
+            }
+        ]
+    },
+    "south": {
+        "sounds": [
+            {
+                "name": "south",
+                "stream": true
+            }
+        ]
+    },
+    "streetfighterdubstepremix": {
+        "sounds": [
+            {
+                "name": "streetfighterdubstepremix",
+                "stream": true
+            }
+        ]
+    },
+    "takemeaway": {
+        "sounds": [
+            {
+                "name": "takemeaway",
+                "stream": true
+            }
+        ]
+    },
+    "takemehomecountryroads": {
+        "sounds": [
+            {
+                "name": "takemehomecountryroads",
+                "stream": true
+            }
+        ]
+    },
+    "theirdragonssoaredtheskies": {
+        "sounds": [
+            {
+                "name": "theirdragonssoaredtheskies",
+                "stream": true
+            }
+        ]
+    },
+    "tienbuocduoiquanky": {
+        "sounds": [
+            {
+                "name": "tienbuocduoiquanky",
+                "stream": true
+            }
+        ]
+    },
+    "togetherwestand": {
+        "sounds": [
+            {
+                "name": "togetherwestand",
+                "stream": true
+            }
+        ]
+    },
+    "trancemusicforracinggame": {
+        "sounds": [
+            {
+                "name": "trancemusicforracinggame",
+                "stream": true
+            }
+        ]
+    },
+    "tropicalstormcosperemix": {
+        "sounds": [
+            {
+                "name": "tropicalstormcosperemix",
+                "stream": true
+            }
+        ]
+    },
+    "whatanawesomegod": {
+        "sounds": [
+            {
+                "name": "whatanawesomegod",
+                "stream": true
+            }
+        ]
+    },
+    "whereibelong": {
+        "sounds": [
+            {
+                "name": "whereibelong",
+                "stream": true
+            }
+        ]
+    },
+    "winterhorrorland": {
+        "sounds": [
+            {
+                "name": "winterhorrorland",
+                "stream": true
+            }
+        ]
+    },
+    "zavodila": {
+        "sounds": [
+            {
+                "name": "zavodila",
+                "stream": true
+            }
+        ]
+    }
+}

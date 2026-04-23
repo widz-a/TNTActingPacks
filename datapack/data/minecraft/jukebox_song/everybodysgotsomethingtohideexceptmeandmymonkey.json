@@ -1,1 +1,8 @@
-{"comparator_output":0,"description":"The Beatles - Everybody's Got Something To Hide Except Me And My Monkey","length_in_seconds":144.7733,"sound_event":{"sound_id":"everybodysgotsomethingtohideexceptmeandmymonkey"}}
+{
+  "comparator_output": 0,
+  "description": "The Beatles - Everybody's Got Something To Hide Except Me And My Monkey",
+  "length_in_seconds": 144.7733,
+  "sound_event": {
+    "sound_id": "everybodysgotsomethingtohideexceptmeandmymonkey"
+  }
+}

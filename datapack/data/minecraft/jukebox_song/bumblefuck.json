@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"Renard - Bumblefuck","length_in_seconds":126.0177,"sound_event":{"sound_id":"bumblefuck"}}
+{
+  "comparator_output": 0,
+  "description": "Renard - Bumblefuck",
+  "length_in_seconds": 126.0177,
+  "sound_event": { "sound_id": "bumblefuck" }
+}

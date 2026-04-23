@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"Cher - Bang Bang","length_in_seconds":231.6667,"sound_event":{"sound_id":"bangbang"}}
+{
+  "comparator_output": 0,
+  "description": "Cher - Bang Bang",
+  "length_in_seconds": 231.6667,
+  "sound_event": { "sound_id": "bangbang" }
+}

@@ -1,1 +1,6 @@
-{"comparator_output":0,"description":"JADS - Expurgation","length_in_seconds":193.0759,"sound_event":{"sound_id":"expurgation"}}
+{
+  "comparator_output": 0,
+  "description": "JADS - Expurgation",
+  "length_in_seconds": 193.0759,
+  "sound_event": { "sound_id": "expurgation" }
+}
