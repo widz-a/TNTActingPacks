@@ -494,5 +494,13 @@
             "stream": true
          }
       ]
+   },
+   "original_nuttah": {
+      "sounds": [
+         {
+            "name": "original_nuttah",
+            "stream": true
+         }
+      ]
    }
 }
