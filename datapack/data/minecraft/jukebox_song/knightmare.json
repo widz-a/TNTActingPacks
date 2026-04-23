@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Creator Universe & Amelia Roberts - Knightmare",
-  "length_in_seconds": 199.0,
-  "sound_event": { "sound_id": "knightmare" }
+   "comparator_output": 0,
+   "description": "Creator Universe & Amelia Roberts - Knightmare",
+   "length_in_seconds": 199.0,
+   "sound_event": {
+      "sound_id": "knightmare"
+   }
 }

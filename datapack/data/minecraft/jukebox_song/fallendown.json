@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Toby Fox - Fallen Down",
-  "length_in_seconds": 57.8182,
-  "sound_event": { "sound_id": "fallendown" }
+   "comparator_output": 0,
+   "description": "Toby Fox - Fallen Down",
+   "length_in_seconds": 57.8182,
+   "sound_event": {
+      "sound_id": "fallendown"
+   }
 }

@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "C418 & Samuel Åberg - Minecraft Cave Sounds",
-  "length_in_seconds": 143.8825,
-  "sound_event": { "sound_id": "minecraftcavesounds" }
+   "comparator_output": 0,
+   "description": "C418 & Samuel Åberg - Minecraft Cave Sounds",
+   "length_in_seconds": 143.8825,
+   "sound_event": {
+      "sound_id": "minecraftcavesounds"
+   }
 }

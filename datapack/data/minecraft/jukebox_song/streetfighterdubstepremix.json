@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Antoine Lavenant - Street Fighter (Dubstep Remix)",
-  "length_in_seconds": 208.0624,
-  "sound_event": { "sound_id": "streetfighterdubstepremix" }
+   "comparator_output": 0,
+   "description": "Antoine Lavenant - Street Fighter (Dubstep Remix)",
+   "length_in_seconds": 208.0624,
+   "sound_event": {
+      "sound_id": "streetfighterdubstepremix"
+   }
 }

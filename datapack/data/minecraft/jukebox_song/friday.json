@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Purple Shep ft. Failboat - Friday",
-  "length_in_seconds": 90.0,
-  "sound_event": { "sound_id": "friday" }
+   "comparator_output": 0,
+   "description": "Purple Shep ft. Failboat - Friday",
+   "length_in_seconds": 90.0,
+   "sound_event": {
+      "sound_id": "friday"
+   }
 }

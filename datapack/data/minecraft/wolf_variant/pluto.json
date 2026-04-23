@@ -1,4 +1,12 @@
 {
-  "assets": { "angry": "pluto_angry", "tame": "pluto_tame", "wild": "pluto" },
-  "spawn_conditions": [{ "priority": -1 }]
+   "assets": {
+      "angry": "pluto_angry",
+      "tame": "pluto_tame",
+      "wild": "pluto"
+   },
+   "spawn_conditions": [
+      {
+         "priority": -1
+      }
+   ]
 }

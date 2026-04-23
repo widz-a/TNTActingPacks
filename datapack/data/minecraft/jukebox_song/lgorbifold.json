@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Kelly Bailey - LG Orbifold",
-  "length_in_seconds": 169.997,
-  "sound_event": { "sound_id": "lgorbifold" }
+   "comparator_output": 0,
+   "description": "Kelly Bailey - LG Orbifold",
+   "length_in_seconds": 169.997,
+   "sound_event": {
+      "sound_id": "lgorbifold"
+   }
 }

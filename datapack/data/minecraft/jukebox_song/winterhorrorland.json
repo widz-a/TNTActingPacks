@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Funkin' Sound Team & Bassetfilms - Winter Horrorland",
-  "length_in_seconds": 132.8302,
-  "sound_event": { "sound_id": "winterhorrorland" }
+   "comparator_output": 0,
+   "description": "Funkin' Sound Team & Bassetfilms - Winter Horrorland",
+   "length_in_seconds": 132.8302,
+   "sound_event": {
+      "sound_id": "winterhorrorland"
+   }
 }

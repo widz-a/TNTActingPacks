@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "John Denver - Take Me Home, Country Roads",
-  "length_in_seconds": 190.16,
-  "sound_event": { "sound_id": "takemehomecountryroads" }
+   "comparator_output": 0,
+   "description": "John Denver - Take Me Home, Country Roads",
+   "length_in_seconds": 190.16,
+   "sound_event": {
+      "sound_id": "takemehomecountryroads"
+   }
 }

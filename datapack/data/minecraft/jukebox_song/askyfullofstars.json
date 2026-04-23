@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Coldplay - A Sky Full of Stars",
-  "length_in_seconds": 267.8667,
-  "sound_event": { "sound_id": "askyfullofstars" }
+   "comparator_output": 0,
+   "description": "Coldplay - A Sky Full of Stars",
+   "length_in_seconds": 267.8667,
+   "sound_event": {
+      "sound_id": "askyfullofstars"
+   }
 }

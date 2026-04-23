@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Kevin MacLeod - Music To Delight",
-  "length_in_seconds": 55.458,
-  "sound_event": { "sound_id": "musictodelight" }
+   "comparator_output": 0,
+   "description": "Kevin MacLeod - Music To Delight",
+   "length_in_seconds": 55.458,
+   "sound_event": {
+      "sound_id": "musictodelight"
+   }
 }

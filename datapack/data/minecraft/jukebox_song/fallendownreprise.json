@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Toby Fox - Fallen Down (Reprise)",
-  "length_in_seconds": 150.5455,
-  "sound_event": { "sound_id": "fallendownreprise" }
+   "comparator_output": 0,
+   "description": "Toby Fox - Fallen Down (Reprise)",
+   "length_in_seconds": 150.5455,
+   "sound_event": {
+      "sound_id": "fallendownreprise"
+   }
 }

@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Porter Robinson - Goodbye To A World",
-  "length_in_seconds": 328.5067,
-  "sound_event": { "sound_id": "goodbyetoaworld" }
+   "comparator_output": 0,
+   "description": "Porter Robinson - Goodbye To A World",
+   "length_in_seconds": 328.5067,
+   "sound_event": {
+      "sound_id": "goodbyetoaworld"
+   }
 }

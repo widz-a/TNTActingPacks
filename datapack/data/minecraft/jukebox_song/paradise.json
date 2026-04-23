@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Coldplay - Paradise",
-  "length_in_seconds": 278.7191,
-  "sound_event": { "sound_id": "paradise" }
+   "comparator_output": 0,
+   "description": "Coldplay - Paradise",
+   "length_in_seconds": 278.7191,
+   "sound_event": {
+      "sound_id": "paradise"
+   }
 }

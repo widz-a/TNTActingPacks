@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "sock.clip - Overhead",
-  "length_in_seconds": 127.7446,
-  "sound_event": { "sound_id": "overhead" }
+   "comparator_output": 0,
+   "description": "sock.clip - Overhead",
+   "length_in_seconds": 127.7446,
+   "sound_event": {
+      "sound_id": "overhead"
+   }
 }

@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Tenzalt - Genocide",
-  "length_in_seconds": 146.8343,
-  "sound_event": { "sound_id": "genocide" }
+   "comparator_output": 0,
+   "description": "Tenzalt - Genocide",
+   "length_in_seconds": 146.8343,
+   "sound_event": {
+      "sound_id": "genocide"
+   }
 }

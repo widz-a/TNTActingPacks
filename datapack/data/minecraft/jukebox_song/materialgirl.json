@@ -1,6 +1,8 @@
 {
-  "comparator_output": 0,
-  "description": "Madonna - Material Girl",
-  "length_in_seconds": 233.44,
-  "sound_event": { "sound_id": "materialgirl" }
+   "comparator_output": 0,
+   "description": "Madonna - Material Girl",
+   "length_in_seconds": 233.44,
+   "sound_event": {
+      "sound_id": "materialgirl"
+   }
 }
