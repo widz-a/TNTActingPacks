@@ -1,0 +1,1 @@
+{"model": {"type": "minecraft:condition","on_false": {"type": "minecraft:model","model": "cit-c508ee71:item/itembound/other/elytra/hanggliders/hangglider_wings_magenta_icon"},"on_true": {"type": "minecraft:model","model": "cit-c508ee71:item/itembound/other/elytra/hanggliders/hangglider_wings_magenta_broken_icon"},"property": "minecraft:broken"}}

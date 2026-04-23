@@ -1,0 +1,1 @@
+{"model": {"type": "minecraft:condition","on_false": {"type": "minecraft:model","model": "cit-c508ee71:item/itembound/tools/fishing_rods/undying_rod/undying_rod_uncast"},"on_true": {"type": "minecraft:model","model": "cit-c508ee71:item/itembound/tools/fishing_rods/undying_rod/undying_rod_cast"},"property": "minecraft:fishing_rod/cast"}}
