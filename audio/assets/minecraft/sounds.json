@@ -311,6 +311,14 @@
          }
       ]
    },
+   "originalnuttah": {
+      "sounds": [
+         {
+            "name": "originalnuttah",
+            "stream": true
+         }
+      ]
+   },
    "overhead": {
       "sounds": [
          {
@@ -491,14 +499,6 @@
       "sounds": [
          {
             "name": "zavodila",
-            "stream": true
-         }
-      ]
-   },
-   "original_nuttah": {
-      "sounds": [
-         {
-            "name": "original_nuttah",
             "stream": true
          }
       ]
