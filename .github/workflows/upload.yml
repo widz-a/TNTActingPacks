@@ -41,3 +41,13 @@ jobs:
         with:
           generate_release_notes: true
           files: out/*.zip
+      
+      - name: Update the Website
+        run: |
+          curl --fail-with-body \
+            -X POST https://tntacting.wida.dev/api/postPackInfo \
+            -H "Content-Type: application/json" \
+            -d '{
+              "version": "${{ github.ref_name }}",
+              "secret": "${{ secrets.API_SECRET }}"
+            }'
