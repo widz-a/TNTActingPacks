@@ -34,7 +34,7 @@ jobs:
       - name: Zip Base Pack Content
         run: |
           cd datapack
-          zip -r ../out/TNTActingDatapack.zip .
+          zip -r ../out/TNTActingData.zip .
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v3
