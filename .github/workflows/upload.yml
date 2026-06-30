@@ -26,18 +26,26 @@ jobs:
           cd base
           zip -r ../out/TNTActingPack.zip .
           
-      - name: Zip Base Pack Content
+      - name: Zip Audio Pack Content
         run: |
           cd audio
           zip -r ../out/TNTActingAudio.zip .
 
-      - name: Zip Base Pack Content
+      - name: Zip Data Pack Content
         run: |
           cd datapack
           zip -r ../out/TNTActingDatapack.zip .
+
+      - name: Create SHA-1
+        run: |
+          sha1sum out/TNTActingPack.zip > out/TNTActingPack.zip.sha1
+          sha1sum out/TNTActingAudio.zip > out/TNTActingAudio.zip.sha1
+          sha1sum out/TNTActingDatapack.zip > out/TNTActingDatapack.zip.sha1
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v3
         with:
           generate_release_notes: true
-          files: out/*.zip
+          files: |
+            out/*.zip
+            out/*.sha1
