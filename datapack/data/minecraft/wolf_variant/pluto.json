@@ -4,6 +4,11 @@
       "tame": "pluto_tame",
       "wild": "pluto"
    },
+   "baby_assets": {
+      "angry": "pluto_angry_baby",
+      "tame": "pluto_tame_baby",
+      "wild": "pluto_baby"
+   },
    "spawn_conditions": [
       {
          "priority": -1
