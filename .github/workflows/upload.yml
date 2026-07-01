@@ -1,0 +1,53 @@
+name: Release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      
+      - name: Create output directory
+        run: mkdir -p out
+
+      - name: Zip Base Pack Content
+        run: |
+          cd base
+          zip -r ../out/TNTActingPack.zip .
+          
+      - name: Zip Base Pack Content
+        run: |
+          cd audio
+          zip -r ../out/TNTActingAudio.zip .
+
+      - name: Zip Base Pack Content
+        run: |
+          cd datapack
+          zip -r ../out/TNTActingData.zip .
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v3
+        with:
+          generate_release_notes: true
+          files: out/*.zip
+      
+      - name: Update the Website
+        run: |
+          curl --fail-with-body \
+            -X POST https://tntacting.wida.dev/api/postPackInfo \
+            -H "Content-Type: application/json" \
+            -d '{
+              "version": "${{ github.ref_name }}",
+              "secret": "${{ secrets.API_SECRET }}"
+            }'
